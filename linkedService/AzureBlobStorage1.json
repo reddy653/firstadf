@@ -7,7 +7,7 @@
 			"connectionString": {
 				"type": "AzureKeyVaultSecret",
 				"store": {
-					"referenceName": "AzureKeyVault1",
+					"referenceName": "LS_KV",
 					"type": "LinkedServiceReference"
 				},
 				"secretName": "kvblobkey"
